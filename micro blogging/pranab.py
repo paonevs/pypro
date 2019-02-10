@@ -1,2 +1,2 @@
-a=input("Enter project name :-")
+a=input("Enter project name:-")
 print(a)
